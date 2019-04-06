@@ -1,0 +1,16 @@
+{
+  "name": "app-localize-behavior-plus",
+  "main": "app-localize-behavior-plus.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^2.0.0",
+    "app-localize-behavior": "PolymerElements/app-localize-behavior#^2.0.2"
+  },
+  "devDependencies": {
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^2.0.0",
+    "web-component-tester": "Polymer/web-component-tester#^6.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0"
+  },
+  "resolutions": {
+    "polymer": "^2.0.0"
+  }
+}
